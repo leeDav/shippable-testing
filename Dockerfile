@@ -1,2 +1,1 @@
-FROM orchardup/php5
-ADD . /code
+FROM docker pull drupal
